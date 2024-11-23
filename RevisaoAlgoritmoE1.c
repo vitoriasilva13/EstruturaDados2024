@@ -5,8 +5,6 @@
  *   evento qualquer (por ex. jogo de futebol)
  *   b. calcular e mostrar ao usuário o tempo equivalente em horas, minutos e
  *   segundos 
- * 2. Fazer um programa para receber 3 valores inteiros do usuário e
- * mostrar a sua média (que pode não ser inteira).
 */
 
 int main()
